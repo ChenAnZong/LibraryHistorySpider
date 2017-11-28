@@ -1,7 +1,7 @@
 # -*- encoding=utf8 -*-
 #! /usr/bin/env python3
 
-'''此程序抓取指定学号范围的大学四年图书馆借书记录并保存到mysql数据库'''
+'''此程序可抓取指定学号范围的大学四年图书馆借书记录并保存到mysql数据库'''
 
 import requests
 import re
