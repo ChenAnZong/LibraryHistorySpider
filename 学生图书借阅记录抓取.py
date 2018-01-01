@@ -19,8 +19,8 @@ ENGINE = None
 DATABASE_TABLE_NAME = 'result'
 # =====================================
 # 在此填入开始学号与结束学号 !!!
-ID_START = 414280101
-ID_END = 414280105
+ID_START = 41xxxxxxx
+ID_END = 414xxxxxxx
 # =====================================
 
 
