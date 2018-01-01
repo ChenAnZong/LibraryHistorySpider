@@ -1,2 +1,3 @@
 # Spiders
-I am practicing spider now.
+主要使用Python的requests库模拟登录抓取指定学号范围的学生到学校图书馆系统，
+并抓取学生大学期间所有图书馆借书记录并保存到mysql数据库
